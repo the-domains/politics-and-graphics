@@ -1,0 +1,28 @@
+name: Politics and Graphics
+favicon: null
+layout_spectrum: 0.15574757405556738
+typography_spectrum: 0.15300410753116012
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8102038765791804
+  lightness: 0.752753458917141
+  saturation: 0.16419396689161658
+  rhythmicContrast: 0.35454238462261856
+purpose: []
